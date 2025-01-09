@@ -47,10 +47,10 @@ header {
     background-color: antiquewhite;
     background-image: url('../images/developer.png'), url('../images/header_bg.png');
     background-repeat: no-repeat;
-    background-position: 40px 20%, bottom right;
+    background-position: left top, bottom right;
     display: flex;
     flex-direction: column;
-    position: relative; 
+    /* position: relative;  */
 }
 
 
@@ -103,7 +103,6 @@ nav li a {
     align-items: center;
     margin: 0px 40px 0px 270px;
 }
-
 
 
 .intro {
