@@ -45,7 +45,7 @@ body {
 header {
     /* height: 837px; */
     background-color: antiquewhite;
-    background-image: url('/icons/mongo.png'), url('/images/Group 70.png');
+    background-image: url('images/developer.png'), url('images/header_bg.png');
     background-repeat: no-repeat, no-repeat;
     background-position: 40px 20%, bottom right;
     display: flex;
